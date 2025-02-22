@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-void generateTrianglePattern(int height) {
-    for (int i = 1; i <= height; i++) {
+void printTriangle(int n) {
+    for (int i = 1; i <= n; i++) {
         for (int j = 1; j <= i; j++)
             cout << "*";
         cout << endl;
@@ -10,7 +10,7 @@ void generateTrianglePattern(int height) {
 }
 
 int main() {
-    int height = 4;
-    generateTrianglePattern(height);
+    int n = 4;
+    printTriangle(n);
     return 0;
-}   
+}
