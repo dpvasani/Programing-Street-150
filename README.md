@@ -55,6 +55,21 @@
 | 49 | Fibonacci using Iteration | Easy | Iteration, Math | Compute Fibonacci series using loops. | `Input: 5 → Output: 0 1 1 2 3` | [FibonacciIteration.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/49.FibonacciIteration.cpp) | - |
 | 50 | Print Pyramid Pattern | Easy | Patterns, Loops | Print a pyramid pattern of stars. | `Input: 3 → Output: \n  *  \n *** \n*****` | [PyramidPattern.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/50.PyramidPattern.cpp) | - |
 
+## Problem List (51-60)
+
+| Sr. No | Problem | Difficulty | Topics | Description | Example | Solution File | Additional Tutorial |
+|--------|---------|------------|--------|-------------|---------|---------------|----------------------|
+| 51 | Check Prime Number | Medium | Math | Check if a number is prime. | `Input: 7 → Output: Yes` | [PrimeNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/51.PrimeNumber.cpp) | - |
+| 52 | Find Prime Factors | Medium | Math | Find all prime factors of a number. | `Input: 28 → Output: 2 2 7` | [PrimeFactors.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/52.PrimeFactors.cpp) | - |
+| 53 | Check Perfect Number | Medium | Math | Check if a number is a perfect number (sum of divisors equals the number). | `Input: 6 → Output: Yes` | [PerfectNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/53.PerfectNumber.cpp) | - |
+| 54 | Decimal to Binary | Easy | Math, Conversion | Convert a decimal number to binary. | `Input: 10 → Output: 1010` | [DecimalToBinary.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/54.DecimalToBinary.cpp) | - |
+| 55 | Binary to Decimal | Easy | Math, Conversion | Convert a binary number to decimal. | `Input: 1010 → Output: 10` | [BinaryToDecimal.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/55.BinaryToDecimal.cpp) | - |
+| 56 | Armstrong Numbers in a Range | Medium | Math | Print all Armstrong numbers within a given range. | `Input: (1, 500) → Output: 1, 153, 370, 371, 407` | [ArmstrongInRange.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/56.ArmstrongInRange.cpp) | - |
+| 57 | Find HCF (GCD) using Recursion | Medium | Math, Recursion | Compute the GCD using recursion. | `Input: (12, 18) → Output: 6` | [GCDRecursion.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/57.GCDRecursion.cpp) | - |
+| 58 | Find LCM using Recursion | Medium | Math, Recursion | Compute the LCM using recursion. | `Input: (4, 6) → Output: 12` | [LCMRecursion.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/58.LCMRecursion.cpp) | - |
+| 59 | Reverse a Number | Easy | Math | Reverse the digits of a number. | `Input: 1234 → Output: 4321` | [ReverseNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/59.ReverseNumber.cpp) | - |
+| 60 | Count Digits in a Number | Easy | Math | Count the number of digits in a given number. | `Input: 9876 → Output: 4` | [CountDigits.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/60.CountDigits.cpp) | - |
+
 
 
 
