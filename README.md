@@ -69,7 +69,16 @@
 | 58 | Find LCM using Recursion | Medium | Math, Recursion | Compute the LCM using recursion. | `Input: (4, 6) → Output: 12` | [LCMRecursion.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/58.LCMRecursion.cpp) | - |
 | 59 | Reverse a Number | Easy | Math | Reverse the digits of a number. | `Input: 1234 → Output: 4321` | [ReverseNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/59.ReverseNumber.cpp) | - |
 | 60 | Count Digits in a Number | Easy | Math | Count the number of digits in a given number. | `Input: 9876 → Output: 4` | [CountDigits.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/60.CountDigits.cpp) | - |
-
+| 61 | Sum of N Natural Numbers | Easy | Math | Compute the sum of the first N natural numbers. | `Input: 5 → Output: 15` | [SumNaturalNumbers.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/61.SumNaturalNumbers.cpp) | - |
+| 62 | Find Power of a Number | Medium | Math, Recursion | Compute `a^b` using recursion. | `Input: (2, 3) → Output: 8` | [PowerRecursion.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/62.PowerRecursion.cpp) | - |
+| 63 | Find Square Root | Medium | Math | Compute the square root of a number (without using built-in functions). | `Input: 16 → Output: 4` | [SquareRoot.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/63.SquareRoot.cpp) | - |
+| 64 | Check Automorphic Number | Medium | Math | Check if a number is automorphic (square ends with the number itself). | `Input: 25 → Output: Yes` | [AutomorphicNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/64.AutomorphicNumber.cpp) | - |
+| 65 | Check Harshad (Niven) Number | Medium | Math | Check if a number is divisible by the sum of its digits. | `Input: 18 → Output: Yes` | [HarshadNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/65.HarshadNumber.cpp) | - |
+| 66 | Find Fibonacci using Recursion | Medium | Recursion, Math | Compute Fibonacci series using recursion. | `Input: 5 → Output: 0 1 1 2 3` | [FibonacciRecursion.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/66.FibonacciRecursion.cpp) | - |
+| 67 | Generate Pascal's Triangle | Hard | Math, Loops | Generate Pascal's triangle up to N rows. | `Input: 4 → Output: \n  1  \n 1 1 \n1 2 1\n1 3 3 1` | [PascalsTriangle.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/67.PascalsTriangle.cpp) | - |
+| 68 | Find Sum of an AP Series | Medium | Math | Compute the sum of the first N terms of an arithmetic progression. | `Input: a=2, d=3, n=5 → Output: 40` | [APSeriesSum.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/68.APSeriesSum.cpp) | - |
+| 69 | Find Sum of a GP Series | Medium | Math | Compute the sum of the first N terms of a geometric progression. | `Input: a=2, r=3, n=4 → Output: 80` | [GPSeriesSum.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/69.GPSeriesSum.cpp) | - |
+| 70 | Find nCr (Binomial Coefficient) | Hard | Math, Combinatorics | Compute the binomial coefficient using factorial formula. | `Input: n=5, r=2 → Output: 10` | [BinomialCoefficient.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/70.BinomialCoefficient.cpp) | - |
 
 
 
