@@ -1,3 +1,27 @@
-# Programing-Street-150
+# Programming Street 150 - Sprint 1 (1-50)
 
-## Basic Question Before DSA
+## Problem List
+
+| Sr. No | Problem | Difficulty | Topics | Description | Example | Solution File | Additional Tutorial |
+|--------|---------|------------|--------|-------------|---------|---------------|----------------------|
+| 1  | Even or Odd | Easy | Basics, Conditionals | Check if a number is even or odd. | `Input: 5 → Output: Odd` | [EvenOdd.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/1.EvenOdd.cpp) | - |
+| 2  | Prime Number | Easy | Math, Loops | Check if a number is prime. | `Input: 7 → Output: Prime` | [PrimeNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/2.PrimeNumber.cpp) | [Prime.md](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/Prime.md) |
+| 3  | Leap Year Validation | Easy | Conditionals | Determine if a given year is a leap year. | `Input: 2024 → Output: Leap Year` | [ValidatingLeapYears.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/3.ValidatingLeapYears.cpp) | - |
+| 4  | Armstrong Number | Medium | Math, Loops | Check if a number is an Armstrong number. | `Input: 153 → Output: Yes` | [CalculatinArmstrongNumbers.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/4.CalculatinArmstrongNumbers.cpp) | - |
+| 5  | Fibonacci Series | Easy | Recursion, Loops | Print Fibonacci series up to n terms. | `Input: 5 → Output: 0 1 1 2 3` | [Fibonacci Series.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/5.Fibonacci%20Series.cpp) | - |
+| 6  | Palindrome Check | Medium | Strings, Two Pointers | Check if a string is a palindrome. | `Input: "madam" → Output: Yes` | [Palindromes.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/6.Palindromes.cpp) | - |
+| 7  | Star Patterns | Easy | Loops | Print star patterns. | `Input: 3 → Output: *\n**\n***` | [Star Patterns.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/7.Star%20Patterns.cpp) | - |
+| 8  | Factorial | Medium | Recursion, Loops | Calculate the factorial of a number. | `Input: 5 → Output: 120` | [FactorialNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/8.FactorialNumber.cpp) | [Factorial.md](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/8.Factorial.md) |
+| 9  | Sum of Digits | Easy | Math | Sum the digits of a number. | `Input: 123 → Output: 6` | [SummingDigitsNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/9.SummingDigitsNumber.cpp) | - |
+| 10 | Greatest Common Divisor (GCD) | Medium | Math | Compute the GCD of two numbers. | `Input: (8, 12) → Output: 4` | [GreatestCommonDivisor(GCD).cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/10.GreatestCommonDivisor(GCD).cpp) | [gcd.md](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/gcd.md) |
+| 11 | Least Common Multiple (LCM) | Medium | Math | Compute the LCM of two numbers. | `Input: (4, 6) → Output: 12` | [LeastCommonMultiple(LCM).cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/11.LeastCommonMultiple(LCM).cpp) | - |
+| 12 | Reverse a Number | Easy | Math, Loops | Reverse the digits of a number. | `Input: 123 → Output: 321` | [ReversingNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/12.ReversingNumber.cpp) | - |
+| 13 | Count Digits | Easy | Math | Count the number of digits in a given number. | `Input: 12345 → Output: 5` | [CountingDigits.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/13.CountingDigits.cpp) | - |
+| 14 | Check Perfect Number | Medium | Math | Determine if a number is a perfect number. | `Input: 28 → Output: Yes` | [PerfectNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/14.PerfectNumber.cpp) | - |
+| 15 | Check Strong Number | Medium | Math, Factorials | Determine if a number is a strong number (sum of factorials of digits equals the number). | `Input: 145 → Output: Yes` | [StrongNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/15.StrongNumber.cpp) | - |
+| 16 | Decimal to Binary Conversion | Medium | Math, Bit Manipulation | Convert a decimal number to binary. | `Input: 10 → Output: 1010` | [DecimalToBinary.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/16.DecimalToBinary.cpp) | - |
+| 17 | Binary to Decimal Conversion | Medium | Math, Bit Manipulation | Convert a binary number to decimal. | `Input: 1010 → Output: 10` | [BinaryToDecimal.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/17.BinaryToDecimal.cpp) | - |
+| 18 | Sum of First N Natural Numbers | Easy | Math, Loops | Compute the sum of the first N natural numbers. | `Input: 5 → Output: 15` | [SumOfFirstNNumbers.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/18.SumOfFirstNNumbers.cpp) | - |
+| 19 | Power of a Number | Medium | Math, Recursion | Calculate the power of a number using recursion. | `Input: (2, 3) → Output: 8` | [PowerOfANumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/19.PowerOfANumber.cpp) | - |
+| 20 | Greatest of Three Numbers | Easy | Conditionals | Find the largest of three numbers. | `Input: (3, 7, 5) → Output: 7` | [GreatestOfThreeNumbers.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/20.GreatestOfThreeNumbers.cpp) | - |
+
