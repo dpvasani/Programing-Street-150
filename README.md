@@ -89,8 +89,14 @@
 | 78 | Convert Octal to Decimal | Easy | Number System | Convert an octal number to decimal. | `Input: 12 → Output: 10` | [OctalToDecimal.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/78.OctalToDecimal.cpp) | - |
 | 79 | Convert Decimal to Hexadecimal | Easy | Number System | Convert a decimal number to hexadecimal. | `Input: 255 → Output: FF` | [DecimalToHexadecimal.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/79.DecimalToHexadecimal.cpp) | - |
 | 80 | Convert Hexadecimal to Decimal | Easy | Number System | Convert a hexadecimal number to decimal. | `Input: FF → Output: 255` | [HexadecimalToDecimal.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/80.HexadecimalToDecimal.cpp) | - |
-
-
-
-
+| 81 | Convert Binary to Octal | Easy | Number System | Convert a binary number to octal. | `Input: 1010 → Output: 12` | [BinaryToOctal.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/81.BinaryToOctal.cpp) | - |
+| 82 | Convert Octal to Binary | Easy | Number System | Convert an octal number to binary. | `Input: 12 → Output: 1010` | [OctalToBinary.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/82.OctalToBinary.cpp) | - |
+| 83 | Convert Binary to Hexadecimal | Easy | Number System | Convert a binary number to hexadecimal. | `Input: 1010 → Output: A` | [BinaryToHexadecimal.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/83.BinaryToHexadecimal.cpp) | - |
+| 84 | Convert Hexadecimal to Binary | Easy | Number System | Convert a hexadecimal number to binary. | `Input: A → Output: 1010` | [HexadecimalToBinary.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/84.HexadecimalToBinary.cpp) | - |
+| 85 | Convert Octal to Hexadecimal | Easy | Number System | Convert an octal number to hexadecimal. | `Input: 12 → Output: A` | [OctalToHexadecimal.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/85.OctalToHexadecimal.cpp) | - |
+| 86 | Convert Hexadecimal to Octal | Easy | Number System | Convert a hexadecimal number to octal. | `Input: A → Output: 12` | [HexadecimalToOctal.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/86.HexadecimalToOctal.cpp) | - |
+| 87 | Find ASCII Value of Character | Easy | Strings | Find the ASCII value of a given character. | `Input: A → Output: 65` | [ASCIIValue.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/87.ASCIIValue.cpp) | - |
+| 88 | Swap Two Numbers Without Temp Variable | Easy | Math, Bit Manipulation | Swap two numbers without using a temporary variable. | `Input: (3, 5) → Output: (5, 3)` | [SwapWithoutTemp.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/88.SwapWithoutTemp.cpp) | - |
+| 89 | Find Power of a Number | Easy | Math, Recursion | Compute the power of a number using recursion. | `Input: (2, 3) → Output: 8` | [PowerRecursion.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/89.PowerRecursion.cpp) | - |
+| 90 | Compute nCr (Combination Formula) | Medium | Math | Compute combinations using the formula `nCr = n! / (r! * (n-r)!)`. | `Input: (5, 2) → Output: 10` | [CombinationFormula.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/90.CombinationFormula.cpp) | - |
 
