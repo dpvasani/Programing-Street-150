@@ -55,7 +55,8 @@
 | 49 | Fibonacci using Iteration | Easy | Iteration, Math | Compute Fibonacci series using loops. | `Input: 5 → Output: 0 1 1 2 3` | [FibonacciIteration.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/49.FibonacciIteration.cpp) | - |
 | 50 | Print Pyramid Pattern | Easy | Patterns, Loops | Print a pyramid pattern of stars. | `Input: 3 → Output: \n  *  \n *** \n*****` | [PyramidPattern.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/50.PyramidPattern.cpp) | - |
 
-## Problem List (51-60)
+---
+# Programming Street 150 - Sprint 2 (51-100)
 
 | Sr. No | Problem | Difficulty | Topics | Description | Example | Solution File | Additional Tutorial |
 |--------|---------|------------|--------|-------------|---------|---------------|----------------------|
@@ -112,10 +113,7 @@
 
 ---
 
-
-Here is the structured table for problems **101 to 110** in Sprint 3:
-
-## Problem List (101-110)
+# Programming Street 150 - Sprint 3 (101-150)
 
 | Sr. No | Problem | Difficulty | Topics | Description | Example | Solution File | Additional Tutorial |
 |--------|---------|------------|--------|-------------|---------|---------------|----------------------|
