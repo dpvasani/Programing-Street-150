@@ -185,9 +185,7 @@
 
 19. **Checking for Perfect Squares in a Range**  
     **Difficulty**: Easy  
-    **Topics**: Mathematical Comput
-
-ations  
+    **Topics**: Mathematical Computations  
     **Description**: Write a program to check which numbers in a given range are perfect squares.  
     **Example**:  
     Input: `start = 1`, `end = 10`  
