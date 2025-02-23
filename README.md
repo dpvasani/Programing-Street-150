@@ -111,3 +111,22 @@
 | 100 | Implement Selection Sort | Easy | Sorting | Implement selection sort to sort an array. | `Input: [64, 25, 12, 22, 11] → Output: [11, 12, 22, 25, 64]` | [SelectionSort.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%202/100.SelectionSort.cpp) | - |
 
 ---
+
+
+Here is the structured table for problems **101 to 110** in Sprint 3:
+
+## Problem List (101-110)
+
+| Sr. No | Problem | Difficulty | Topics | Description | Example | Solution File | Additional Tutorial |
+|--------|---------|------------|--------|-------------|---------|---------------|----------------------|
+| 101 | Print a Right Angle Triangle of Stars | Easy | Patterns, Loops | Print a right-angle triangle using stars. | `Input: 3 → Output: \n* \n** \n***` | [101.PrintARightAngleTriangleofStars.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%203/101.PrintARightAngleTriangleofStars.cpp) | - |
+| 102 | Print a Square of Stars | Easy | Patterns, Loops | Print a square of stars with given size. | `Input: 3 → Output: \n*** \n*** \n***` | [102.PrintASquareofStars.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%203/102.PrintASquareofStars.cpp) | - |
+| 103 | Print a Pyramid Pattern | Easy | Patterns, Loops | Print a pyramid pattern using stars. | `Input: 3 → Output: \n  *  \n *** \n*****` | [103.PrintAPyramidPattern.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%203/103.PrintAPyramidPattern.cpp) | - |
+| 104 | Print a Diamond Pattern | Easy | Patterns, Loops | Print a diamond shape using stars. | `Input: 3 → Output: \n  *  \n *** \n***** \n *** \n  *  ` | [104.PrintADiamondPattern.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%203/104.PrintADiamondPattern.cpp) | - |
+| 105 | Print a Hollow Square of Stars | Medium | Patterns, Loops | Print a hollow square of stars. | `Input: 3 → Output: \n*** \n* * \n***` | [105.PrintAHollowSquareofStars.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%203/105.PrintAHollowSquareofStars.cpp) | - |
+| 106 | Print a Number Triangle | Easy | Patterns, Loops | Print a right-angle triangle with numbers. | `Input: 3 → Output: \n1 \n12 \n123` | [106.PrintANumberTriangle.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%203/106.PrintANumberTriangle.cpp) | - |
+| 107 | Print an Inverted Triangle Pattern | Easy | Patterns, Loops | Print an inverted right-angle triangle. | `Input: 3 → Output: \n*** \n** \n*` | [107.PrintAnInvertedTrianglePattern.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%203/107.PrintAnInvertedTrianglePattern.cpp) | - |
+| 108 | Print a Diamond Pattern with Numbers | Medium | Patterns, Loops | Print a diamond pattern using numbers. | `Input: 3 → Output: \n  1  \n 121 \n12321 \n 121 \n  1  ` | [108.PrintADiamondPatternWithNumbers.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%203/108.PrintADiamondPatternWithNumbers.cpp) | - |
+| 109 | Print a Right Angle Triangle of Numbers | Easy | Patterns, Loops | Print a right-angle triangle of numbers. | `Input: 3 → Output: \n1 \n22 \n333` | [109.PrintARightAngleTriangleOfNumbers.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%203/109.PrintARightAngleTriangleOfNumbers.cpp) | - |
+| 110 | Print a Pyramid Pattern with Numbers | Medium | Patterns, Loops | Print a pyramid pattern with numbers. | `Input: 3 → Output: \n  1  \n 121 \n12321` | [110.PrintAPyramidPatternWithNumbers.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%203/110.PrintAPyramidPatternWithNumbers.cpp) | - |
+
