@@ -34,5 +34,17 @@
 | 28 | Sum of Prime Numbers | Medium | Math | Compute the sum of prime numbers up to N. | `Input: 10 → Output: 17` | [SumOfPrimes.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/28.SumOfPrimes.cpp) | - |
 | 29 | HCF (GCD) of Two Numbers | Medium | Math | Compute the Highest Common Factor (GCD) of two numbers. | `Input: (8, 12) → Output: 4` | [HCF_GCD.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/29.HCF_GCD.cpp) | - |
 | 30 | LCM of Two Numbers | Medium | Math | Compute the Least Common Multiple (LCM) of two numbers. | `Input: (4, 6) → Output: 12` | [LCM.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/30.LCM.cpp) | - |
+| 31 | Decimal to Binary | Easy | Math, Bit Manipulation | Convert a decimal number to binary representation. | `Input: 10 → Output: 1010` | [DecimalToBinary.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/31.DecimalToBinary.cpp) | - |
+| 32 | Binary to Decimal | Easy | Math, Bit Manipulation | Convert a binary number to decimal representation. | `Input: 1010 → Output: 10` | [BinaryToDecimal.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/32.BinaryToDecimal.cpp) | - |
+| 33 | Reverse a Number | Easy | Math, Loops | Reverse the digits of a given number. | `Input: 123 → Output: 321` | [ReverseNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/33.ReverseNumber.cpp) | - |
+| 34 | Power of a Number | Medium | Math, Recursion | Compute `a^b` using recursion. | `Input: (2, 3) → Output: 8` | [PowerOfNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/34.PowerOfNumber.cpp) | - |
+| 35 | Fibonacci using Recursion | Medium | Recursion | Compute Fibonacci series using recursion. | `Input: 5 → Output: 0 1 1 2 3` | [FibonacciRecursion.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/35.FibonacciRecursion.cpp) | - |
+| 36 | Count Digits in a Number | Easy | Math, Loops | Count the number of digits in a given number. | `Input: 1234 → Output: 4` | [CountDigits.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/36.CountDigits.cpp) | - |
+| 37 | Check Perfect Number | Medium | Math | Check if a number is a perfect number (sum of divisors equals the number). | `Input: 28 → Output: Yes` | [PerfectNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/37.PerfectNumber.cpp) | - |
+| 38 | Sum of Natural Numbers | Easy | Math | Compute the sum of the first N natural numbers. | `Input: 5 → Output: 15` | [SumNaturalNumbers.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/38.SumNaturalNumbers.cpp) | - |
+| 39 | Check Automorphic Number | Medium | Math | Check if a number is automorphic (its square ends with the number itself). | `Input: 25 → Output: Yes` | [AutomorphicNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/39.AutomorphicNumber.cpp) | - |
+| 40 | Check Harshad Number | Medium | Math | Check if a number is a Harshad number (divisible by the sum of its digits). | `Input: 18 → Output: Yes` | [HarshadNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/40.HarshadNumber.cpp) | - |
+
+
 
 
