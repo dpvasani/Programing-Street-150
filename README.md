@@ -44,6 +44,18 @@
 | 38 | Sum of Natural Numbers | Easy | Math | Compute the sum of the first N natural numbers. | `Input: 5 → Output: 15` | [SumNaturalNumbers.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/38.SumNaturalNumbers.cpp) | - |
 | 39 | Check Automorphic Number | Medium | Math | Check if a number is automorphic (its square ends with the number itself). | `Input: 25 → Output: Yes` | [AutomorphicNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/39.AutomorphicNumber.cpp) | - |
 | 40 | Check Harshad Number | Medium | Math | Check if a number is a Harshad number (divisible by the sum of its digits). | `Input: 18 → Output: Yes` | [HarshadNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/40.HarshadNumber.cpp) | - |
+| 41 | Check Armstrong Number | Medium | Math | Check if a number is an Armstrong number (sum of digits raised to power of count equals the number). | `Input: 153 → Output: Yes` | [ArmstrongNumber.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/41.ArmstrongNumber.cpp) | - |
+| 42 | Reverse a String | Easy | Strings | Reverse a given string. | `Input: "hello" → Output: "olleh"` | [ReverseString.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/42.ReverseString.cpp) | - |
+| 43 | Palindrome String | Easy | Strings | Check if a string is a palindrome. | `Input: "madam" → Output: Yes` | [PalindromeString.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/43.PalindromeString.cpp) | - |
+| 44 | Find Factorial | Easy | Math, Recursion | Compute the factorial of a number using recursion. | `Input: 5 → Output: 120` | [Factorial.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/44.Factorial.cpp) | - |
+| 45 | Find GCD | Medium | Math | Find the Greatest Common Divisor (GCD) of two numbers. | `Input: (12, 18) → Output: 6` | [GCD.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/45.GCD.cpp) | - |
+| 46 | Find LCM | Medium | Math | Find the Least Common Multiple (LCM) of two numbers. | `Input: (12, 18) → Output: 36` | [LCM.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/46.LCM.cpp) | - |
+| 47 | Sum of Digits | Easy | Math | Compute the sum of digits of a number. | `Input: 123 → Output: 6` | [SumOfDigits.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/47.SumOfDigits.cpp) | - |
+| 48 | Count Vowels and Consonants | Easy | Strings | Count the number of vowels and consonants in a string. | `Input: "hello" → Output: Vowels: 2, Consonants: 3` | [VowelsConsonants.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/48.VowelsConsonants.cpp) | - |
+| 49 | Fibonacci using Iteration | Easy | Iteration, Math | Compute Fibonacci series using loops. | `Input: 5 → Output: 0 1 1 2 3` | [FibonacciIteration.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/49.FibonacciIteration.cpp) | - |
+| 50 | Print Pyramid Pattern | Easy | Patterns, Loops | Print a pyramid pattern of stars. | `Input: 3 → Output: \n  *  \n *** \n*****` | [PyramidPattern.cpp](https://github.com/dpvasani/Programing-Street-150/blob/main/Sprint%201/50.PyramidPattern.cpp) | - |
+
+
 
 
 
